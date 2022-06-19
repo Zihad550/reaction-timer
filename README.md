@@ -1,19 +1,7 @@
-# reaction-timer
+# Reaction Timer
 
-## Project setup
-```
-yarn install
-```
+Live Website [Reaction Timer](https://reaction-timer13.netlify.app/)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Technologies used
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Vue.js
